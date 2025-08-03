@@ -4,7 +4,7 @@ Progetto Tecnologie Web (TWEB) UniTo anno 2024-2025
 
 **NB!** Questo repository contiene una descrizione completa del progetto. Il codice sorgente e i dati sono organizzati secondo l'architettura multi-tier descritta di seguito.
 
-**Nota sui Dataset:** I dataset cinematografici (~1.8 GB) sono esclusi dal repository per limitazioni di GitHub e questioni di copyright. 
+**Nota sui Dataset:** I dataset cinematografici sono esclusi dal repository per  questioni di copyright. 
 
 ## Introduzione
 
